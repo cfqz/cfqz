@@ -1,0 +1,162 @@
+{
+  "version": 1,
+  "login": "cfqz",
+  "seed": "#E5EAEB",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "socials",
+    "buttons"
+  ],
+  "hero": {
+    "greeting": "hi, im",
+    "name": "cf",
+    "subtitle": "just a student exploring cs",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "los angeles"
+      },
+      {
+        "icon": "code",
+        "label": "swift · go"
+      }
+    ]
+  },
+  "about": {
+    "title": "about me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "a developer"
+      },
+      {
+        "icon": "code",
+        "label": "backend enthusiast"
+      },
+      {
+        "icon": "work",
+        "label": "websites & apps lover"
+      }
+    ]
+  },
+  "stack": {
+    "title": "stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:swift",
+            "label": "swift"
+          },
+          {
+            "icon": "brand:dart",
+            "label": "dart"
+          },
+          {
+            "icon": "brand:go",
+            "label": "go"
+          },
+          {
+            "icon": "brand:python",
+            "label": "python"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "git"
+          },
+          {
+            "icon": "brand:kotlin",
+            "label": "kotlin"
+          },
+          {
+            "icon": "brand:swift",
+            "label": "swiftui"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [
+      "loginresource"
+    ],
+    "overrides": {},
+    "empty": "a passion",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "my activity",
+    "stars": "stars",
+    "contributions": "contributions",
+    "repos": "repos",
+    "followers": "followers",
+    "calendar": "last 21 days",
+    "weekdays": "smtwtfs",
+    "languages": "languages",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/"
+      },
+      {
+        "icon": "brand:discord",
+        "url": "https://discord.com/"
+      },
+      {
+        "icon": "brand:x",
+        "url": "https://x.com/"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
+        "style": "tonal"
+      }
+    ]
+  }
+}

@@ -6,8 +6,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="stack"></picture>
 
-<a href="https://github.com/cfqz/loginresource"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-loginresource-dark.svg"><img src="assets/project-loginresource-light.svg" width="49%" alt="loginresource"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="my activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
